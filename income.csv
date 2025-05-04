@@ -1,0 +1,102 @@
+id,age,income,occupation,years of experience
+1,64,35397,developer,10
+2,54,32943,teacher,3
+3,43,21947,professor,9
+4,21,37092,engineer,5
+5,64,35935,accountant,10
+6,52,38933,mechanic,1
+7,37,22040,electrician,8
+8,37,36656,software engineer,5
+9,43,32220,tester,13
+10,26,36691,designer,3
+11,32,32283,developer,0
+12,40,27773,teacher,1
+13,43,30195,professor,5
+14,36,23926,engineer,0
+15,59,39369,accountant,10
+16,53,28486,mechanic,10
+17,65,37904,electrician,20
+18,20,32601,software engineer,19
+19,62,20494,tester,1
+20,58,35202,designer,9
+21,50,23974,developer,11
+22,39,21239,teacher,20
+23,34,23712,professor,18
+24,62,27435,engineer,13
+25,26,29457,accountant,19
+26,27,33222,mechanic,8
+27,33,29918,electrician,7
+28,43,37929,software engineer,17
+29,46,21063,tester,12
+30,37,28859,designer,6
+31,38,28751,developer,14
+32,47,25256,teacher,14
+33,51,30667,professor,2
+34,24,37021,engineer,7
+35,58,26798,accountant,9
+36,64,20465,mechanic,14
+37,53,37197,electrician,11
+38,26,35320,software engineer,7
+39,47,21012,tester,15
+40,45,26067,designer,20
+41,36,38519,developer,15
+42,40,22165,teacher,1
+43,45,36675,professor,2
+44,30,26865,engineer,11
+45,44,34992,accountant,12
+46,20,21214,mechanic,11
+47,54,26332,electrician,3
+48,57,20762,software engineer,1
+49,46,25015,tester,4
+50,26,23520,designer,15
+51,37,31716,developer,0
+52,57,31347,teacher,1
+53,40,25089,professor,10
+54,20,39122,engineer,13
+55,34,39371,accountant,16
+56,25,24785,mechanic,2
+57,32,26542,electrician,9
+58,41,32278,software engineer,5
+59,52,34374,tester,1
+60,44,27391,designer,19
+61,55,32322,developer,20
+62,60,36866,teacher,10
+63,23,30692,professor,7
+64,43,31789,engineer,15
+65,30,39148,accountant,17
+66,36,21191,mechanic,19
+67,30,31950,electrician,16
+68,61,31861,software engineer,10
+69,46,22332,tester,16
+70,37,39543,designer,15
+71,42,25617,developer,2
+72,28,22100,teacher,17
+73,63,38487,professor,1
+74,54,34357,engineer,14
+75,29,29091,accountant,7
+76,36,37788,mechanic,18
+77,45,26830,electrician,3
+78,41,35312,software engineer,20
+79,30,38864,tester,10
+80,32,32462,designer,8
+81,59,30955,developer,3
+82,33,32195,teacher,7
+83,35,33452,professor,11
+84,40,23181,engineer,17
+85,58,32204,accountant,17
+86,65,27389,mechanic,3
+87,37,34208,electrician,16
+88,35,38912,software engineer,0
+89,57,30736,tester,20
+90,55,20472,designer,2
+91,39,28007,developer,10
+92,29,30789,teacher,11
+93,23,28714,professor,8
+94,29,39385,engineer,14
+95,24,30714,accountant,6
+96,25,20576,mechanic,10
+97,26,21664,electrician,16
+98,55,20861,software engineer,8
+99,46,34936,tester,18
+100,31,33452,designer,2
+101,54,27633,developer,2
